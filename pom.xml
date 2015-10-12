@@ -11,9 +11,9 @@
   <url>http://maven.apache.org</url>
  
   <scm>
-      <connection>scm:git:https://github.com/ylee332/Citi-Innovation-Lab---maven.git</connection>
-      <url>https://github.com/ylee332/Citi-Innovation-Lab---maven</url>
-      <developerConnection>scm:git:https://github.com/ylee332/Citi-Innovation-Lab---maven.git</developerConnection>
+      <connection>scm:git:https://github.com/ylee332/Citi-Innovation-MavenJAVA.git</connection>
+      <url>https://github.com/ylee332/Citi-Innovation-MavenJAVA</url>
+      <developerConnection>scm:git:https://github.com/ylee332/Citi-Innovation-MavenJAVA.git</developerConnection>
   </scm>
 
   <properties>
