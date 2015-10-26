@@ -78,11 +78,11 @@
                       <module name="Checker">
                           
                           <!-- Checks for Size Violations.                    -->
-                          <!-- See http://checkstyle.sf.net/config_sizes.html
+                          <!-- See http://checkstyle.sf.net/config_sizes.html -->
                           <module name="FileLength">
                               <property name="max" value="3500" />
                               <property name="fileExtensions" value="java"/>
-                          </module> -->
+                          </module>
                           
                           <!-- Checks that a package-info.java file exists for each package.     -->
                           <!-- See http://checkstyle.sf.net/config_javadoc.html#JavadocPackage -->
